@@ -1,0 +1,47 @@
+@use './_variables.scss';
+
+.nav {
+    width: 100%;
+    padding: 15px 0;
+
+    background-color: variables.$primary-color;
+    color: variables.$secondary-fontcolor;
+    font-size: 1.2em;
+
+    &__container {
+        width: var(--primary-width);
+        max-width: variables.$max-width;
+
+        display: flex;
+        justify-self: center;
+
+        & > div, > ul {
+            width: 50%;
+
+            display: flex;
+            align-items: center;
+        }
+        & > div {
+            font-size: 1.5em;
+            font-weight: 600;
+
+            & img {
+                height: auto;
+                max-height: 60px;
+                width: auto;
+                margin-right: 15px;
+            }
+        }
+        & > ul {
+            gap: 20px;
+
+            list-style: none;
+            justify-content: flex-end;
+        }
+    }
+}
+
+@media (width <= 800px) {
+    .nav__container { flex-direction: column; }
+    .nav__container > ul {justify-content: flex-start;}
+}
