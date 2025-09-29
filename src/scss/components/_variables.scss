@@ -1,0 +1,17 @@
+$default-color: #ffffff;
+$primary-color: #A64B86;
+
+$primary-fontcolor: #000000;
+$secondary-fontcolor: #ffffff;
+
+$secondary-linkcolor: #b8ceff;
+
+$max-width: 1200px;
+$primary-width: 60%;
+
+
+:root { --primary-width: #{$primary-width}; }
+
+@media (width <= 1200px) {
+    :root { --primary-width: 80%; }
+}
