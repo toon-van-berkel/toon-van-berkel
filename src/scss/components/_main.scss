@@ -1,0 +1,44 @@
+@use './_variables.scss';
+
+main {
+    width: 100%;
+    padding: 15px 0;
+
+    color: variables.$primary-fontcolor;
+    font-size: 1em;
+
+    & header {
+        background-color: variables.$primary-color;
+        color: variables.$secondary-fontcolor;
+        padding: 50px 0;
+        
+        & article {
+            width: var(--primary-width);
+            max-width: variables.$max-width;
+
+            display: flex;
+            flex-direction: column;
+            justify-self: center;
+
+            & p {
+                margin: 5px 0;
+            }
+        }
+    }
+    & section {
+        width: var(--primary-width);
+        max-width: variables.$max-width;
+        margin: 15px 0;
+
+        display: flex;
+        flex-direction: column;
+        justify-self: center;
+
+        & p {
+            margin: 5px 0;
+        }
+        & ul {
+            margin-left: 20px;
+        }
+    }
+}
