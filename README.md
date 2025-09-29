@@ -1,4 +1,4 @@
-<img width="2000" height="400" alt="Banner" src="./BannerToonvb_toon-van-berkel_Github.png" />
+<!-- <img width="2000" height="400" alt="Banner" src="./BannerToonvb_toon-van-berkel_Github.png" /> -->
 
 # Welcome to Toon van Berkel's Personal GitHub
 
