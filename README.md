@@ -17,5 +17,3 @@ Explore a curated collection of projects, neatly organized for easy navigation.
 
 ### CMGT FEB – Front-End Classes
 - [**CMGT-FEB-SlimeRancherPedia**](https://github.com/toon-van-berkel/CMGT-FED-SlimeRancherPedia) – A front-end assignment focused on flexbox styling inspired by *Slime Rancher*.
-
-test
