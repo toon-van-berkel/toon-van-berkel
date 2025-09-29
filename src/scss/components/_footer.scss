@@ -1,0 +1,41 @@
+@use './_variables.scss';
+
+.footer {
+    width: 100%;
+    padding: 15px 0;
+
+    background-color: variables.$primary-color;
+    color: variables.$secondary-fontcolor;
+    font-size: 0.9em;
+
+    & a {
+        color: variables.$secondary-linkcolor;
+    }
+    & ul {
+        margin-left: 20px;
+    }
+    &__container {
+        width: var(--primary-width);
+        max-width: variables.$max-width;
+        gap: 20px;
+
+        display: flex;
+        justify-self: center;
+
+        & div {
+            display: flex;
+            flex-direction: column;
+        }
+        & > div {
+            width: 50%;
+            gap: 20px;
+        }
+    }
+}
+
+@media (width <= 800px) {
+    .footer__container { flex-direction: column; }
+    .footer__container div:first-child {
+        border-bottom: 1px solid variables.$default-color;
+    }
+}
