@@ -1,11 +1,19 @@
-<img width="2000" height="400" alt="image" src="./BannerToonvb_toon-van-berkel_Github.png" />
+<img width="2000" height="400" alt="Banner" src="./BannerToonvb_toon-van-berkel_Github.png" />
 
-# Welcome to my personal Github!
+# Welcome to Toon van Berkel's Personal GitHub
 
-Want to see my projects I have sorted them for you.
+Explore a curated collection of projects, neatly organized for easy navigation.
 
-## PP - This stands for all my personal projects for example:
-- [PP-ShooterGame](https://github.com/toon-van-berkel/PP-ShooterGame) - A python game I made for fun
-- [PP-OldToonvb](https://github.com/toon-van-berkel/PP-OldToonvb) - This is my old portofolio website
-- [PP-ImageToVideoFX](https://github.com/toon-van-berkel/PP-ImageToVideoFX) - A python script to create a video form a image
-- [PP-MCR](https://github.com/toon-van-berkel/PP-MCR) - My fan website of a band named My Chemical Romance
+## PP – Personal Projects
+- [**PP-ShooterGame**](https://github.com/toon-van-berkel/PP-ShooterGame) – A fun Python-based shooting game.  
+- [**PP-OldToonvb**](https://github.com/toon-van-berkel/PP-OldToonvb) – The previous version of Toon van Berkel’s personal portfolio website.  
+- [**PP-ImageToVideoFX**](https://github.com/toon-van-berkel/PP-ImageToVideoFX) – A Python script that transforms images into dynamic videos.  
+- [**PP-MCR**](https://github.com/toon-van-berkel/PP-MCR) – A fan-made website dedicated to the band *My Chemical Romance*.
+
+## CMGT – Creative Media & Game Technologies (Hogeschool Rotterdam)
+- [**CMGT-Notes**](https://github.com/toon-van-berkel/CMGT-Notes) – A work-in-progress note-taking web application.  
+- [**CMGT-PlayerCommands**](https://github.com/toon-van-berkel/CMGT-PlayerCommands) – Comprehensive documentation of all player commands used on the CMGT Minecraft server.  
+- [**CMGT-HRIntroduction**](https://github.com/toon-van-berkel/CMGT-HRIntroduction) – An introductory website created for Hogeschool Rotterdam.
+
+### CMGT FEB – Front-End Classes
+- [**CMGT-FEB-SlimeRancherPedia**](https://github.com/toon-van-berkel/CMGT-FED-SlimeRancherPedia) – A front-end assignment focused on flexbox styling inspired by *Slime Rancher*.
