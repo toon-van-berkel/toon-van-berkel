@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+:root {
+  --primary-width: 60%;
+}
+
+@media (width <= 1200px) {
+  :root {
+    --primary-width: 80%;
+  }
+}
+.nav {
+  width: 100%;
+  padding: 15px 0;
+  background-color: #A64B86;
+  color: #ffffff;
+  font-size: 1.2em;
+}
+.nav__container {
+  width: var(--primary-width);
+  max-width: 1200px;
+  display: flex;
+  justify-self: center;
+}
+.nav__container > div, .nav__container > ul {
+  width: 50%;
+  display: flex;
+  align-items: center;
+}
+.nav__container > div {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+.nav__container > div img {
+  height: auto;
+  max-height: 60px;
+  width: auto;
+  margin-right: 15px;
+}
+.nav__container > ul {
+  gap: 20px;
+  list-style: none;
+  justify-content: flex-end;
+}
+
+@media (width <= 800px) {
+  .nav__container {
+    flex-direction: column;
+  }
+  .nav__container > ul {
+    justify-content: flex-start;
+  }
+}
+.footer {
+  width: 100%;
+  padding: 15px 0;
+  background-color: #A64B86;
+  color: #ffffff;
+  font-size: 0.9em;
+}
+.footer a {
+  color: #b8ceff;
+}
+.footer ul {
+  margin-left: 20px;
+}
+.footer__container {
+  width: var(--primary-width);
+  max-width: 1200px;
+  gap: 20px;
+  display: flex;
+  justify-self: center;
+}
+.footer__container div {
+  display: flex;
+  flex-direction: column;
+}
+.footer__container > div {
+  width: 50%;
+  gap: 20px;
+}
+
+@media (width <= 800px) {
+  .footer__container {
+    flex-direction: column;
+  }
+  .footer__container div:first-child {
+    border-bottom: 1px solid #ffffff;
+  }
+}
+main {
+  width: 100%;
+  padding: 15px 0;
+  color: #000000;
+  font-size: 1em;
+}
+main header {
+  background-color: #A64B86;
+  color: #ffffff;
+  padding: 50px 0;
+}
+main header article {
+  width: var(--primary-width);
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+}
+main header article p {
+  margin: 5px 0;
+}
+main section {
+  width: var(--primary-width);
+  max-width: 1200px;
+  margin: 15px 0;
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+}
+main section p {
+  margin: 5px 0;
+}
+main section ul {
+  margin-left: 20px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+html, body {
+  min-height: 100svh;
+  min-width: 100svw;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}/*# sourceMappingURL=style.css.map */
