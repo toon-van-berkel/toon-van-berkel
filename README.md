@@ -16,10 +16,12 @@ Explore a curated collection of projects, neatly organized for easy navigation.
 
 ### [CMGT FEB – Front-End Classes](https://github.com/stars/toon-van-berkel/lists/cmgt-fed)
 - [**CMGT-FEB-SlimeRancherPedia**](https://github.com/toon-van-berkel/CMGT-FED-SlimeRancherPedia) – A front-end assignment focused on flexbox styling inspired by *Slime Rancher*.
+- [**CMGT-FED-FinalAssignment**](https://github.com/toon-van-berkel/CMGT-FED-FinalAssignment) - The Final Assignment for front-end
 
 ## Socials
 - [Youtube - Toonvanberkel-dev](https://www.youtube.com/@Toonvanberkel-dev)
 - [Linkedin - Toon van Berkel](https://www.linkedin.com/in/toon-van-berkel-a9112628b/)
+- [Github - toon-van-berkel](https://github.com/toon-van-berkel)
 - [Website - Toonvb](https://toonvb.com/)
 
 ### Personal Socials
