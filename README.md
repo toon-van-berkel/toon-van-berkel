@@ -4,6 +4,7 @@
 
 Explore a curated collection of projects, neatly organized for easy navigation.
 ## [PP – Personal Projects](https://github.com/stars/toon-van-berkel/lists/pp)
+- [**PP-SocialLinks**](https://github.com/toon-van-berkel/PP-SocialLinks) - A website only for social links.
 - [**PP-ImageToVideoFX**](https://github.com/toon-van-berkel/PP-ImageToVideoFX) – A Python script that transforms images into dynamic videos.
 - [**PP-ShooterGame**](https://github.com/toon-van-berkel/PP-ShooterGame) – A fun Python-based shooting game.
 - [**PP-OldToonvb**](https://github.com/toon-van-berkel/PP-OldToonvb) – The previous version of Toon van Berkel’s personal portfolio website.
