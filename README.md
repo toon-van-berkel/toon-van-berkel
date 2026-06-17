@@ -9,7 +9,7 @@ I build websites, apps, tools, experiments, game projects, and occasionally thin
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-toonvb.com-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://toonvb.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Toon%20van%20Berkel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toon-van-berkel-a9112628b/)
-[![YouTube](https://img.shields.io/badge/YouTube-_Toonvb-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@_Toonvb](https://www.youtube.com/@Toonvanberkel-dev))
+[![YouTube](https://img.shields.io/badge/YouTube-Toonvanberkel-dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@Toonvanberkel-dev](https://www.youtube.com/@Toonvanberkel-dev))
 [![GitHub](https://img.shields.io/badge/GitHub-toon--van--berkel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toon-van-berkel)
 
 </div>
