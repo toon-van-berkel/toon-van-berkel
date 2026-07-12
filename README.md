@@ -109,7 +109,7 @@ All of them helped me learn something.
 
 <div align="center">
   
-![Toon's GitHub stats](https://github-stats-extended.vercel.app/api?username=toon-van-berkel&show_icons=true&theme=tokyonight&hide_border=true)
+![Toon's GitHub stats](https://github-stats-extended.vercel.app/api?username=toon-van-berkel&show_icons=true&show=reviews&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=toon-van-berkel&layout=compact&theme=tokyonight&hide_border=true)
 
