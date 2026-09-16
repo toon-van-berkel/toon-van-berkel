@@ -12,6 +12,11 @@ I build websites, tools, games and experiments — usually starting with
 *"I wonder if..."* and ending somewhere considerably larger than planned.
 
 <br>
+  <!-- Conheça a minha biblioteca CoreIcons https://mauriciospark.github.io/coreIcons/-->
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/rust.png" height="45" alt="rust logo"/> |
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/java.png" height="45" alt="java logo"/>
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/threejs.png" height="45" alt="threejs logo"/>
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/typescript.png" height="45" alt="typescript logo"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-toonvb.com-51678D?style=for-the-badge&logo=firefox&logoColor=white)](https://toonvb.com)
 [![DND Portal](https://img.shields.io/badge/DND_Portal-dnd--portal.com-2A4C7B?style=for-the-badge)](https://dnd-portal.com)
