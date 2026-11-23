@@ -2,7 +2,7 @@
 <img height="170" src="https://streak-stats.demolab.com/?user=toon-van-berkel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <img height="170" src="https://github-stats-extended.vercel.app/api?username=toon-van-berkel&show_icons=true&show=reviews&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
  
-# Hey, I'm Toon van Berkel 👋
+# Hey, I'm Toon van Berkel
 
 ### Developer • CMGT Student • Creative Technologist
 
