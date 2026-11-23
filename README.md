@@ -1,21 +1,22 @@
 <div align="center">
 
-<img src="./assets/intro.svg" width="100%" alt="Hey, I'm Toon van Berkel — I turn curiosity into things that actually work." />
+<img src="./assets/intro.svg" width="100%" alt="Hey, I'm Toon. I turn curiosity into things that actually work." />
+
+<!-- Four individually clickable SVG cards, with a consistent container treatment. -->
+<p>
+<a href="https://toonvb.com"><img src="./assets/link-portfolio.svg" width="23%" alt="Portfolio — toonvb.com" /></a>
+<a href="https://dnd-portal.com"><img src="./assets/link-dnd.svg" width="23%" alt="D&D Portal — dnd-portal.com" /></a>
+<a href="https://www.linkedin.com/in/toon-van-berkel-a9112628b/"><img src="./assets/link-linkedin.svg" width="23%" alt="LinkedIn profile" /></a>
+<a href="https://www.youtube.com/@Toonvanberkel-dev"><img src="./assets/link-youtube.svg" width="23%" alt="YouTube channel" /></a>
+</p>
+
+<img src="./assets/languages.svg" width="100%" alt="Main stack: TypeScript, PHP, SCSS and Makefile" />
 
 <br />
 
-[Portfolio](https://toonvb.com) &nbsp;·&nbsp; [D&D Portal](https://dnd-portal.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/toon-van-berkel-a9112628b/) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@Toonvanberkel-dev)
+<img src="./assets/activity.svg" width="100%" alt="GitHub activity — live statistics" />
 
-<br />
-
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-202C3E?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
-<img alt="PHP" src="https://img.shields.io/badge/PHP-202C3E?style=flat-square&amp;logo=php&amp;logoColor=white" />
-<img alt="SCSS" src="https://img.shields.io/badge/SCSS-202C3E?style=flat-square&amp;logo=sass&amp;logoColor=white" />
-<img alt="Makefile" src="https://img.shields.io/badge/Makefile-202C3E?style=flat-square" />
-
-<br /><br />
-
-<!-- Existing live stats cards, URLs and parameters unchanged. -->
+<!-- Original live statistic images; URLs and parameters are unchanged. -->
 <img height="170" src="https://streak-stats.demolab.com/?user=toon-van-berkel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <img height="170" src="https://github-stats-extended.vercel.app/api?username=toon-van-berkel&show_icons=true&show=reviews&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
