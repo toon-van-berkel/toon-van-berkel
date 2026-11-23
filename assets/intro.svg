@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="242" viewBox="0 0 1000 242" role="img" aria-labelledby="title desc">
+<title id="title">Hey, I'm Toon van Berkel</title><desc id="desc">Developer, CMGT student and creative technologist. I turn curiosity into things that actually work.</desc>
+<style>
+.mono{font-family:Consolas,Menlo,'Liberation Mono',monospace}.sans{font-family:Arial,Helvetica,sans-serif}
+@keyframes blink{50%{opacity:0}}.cursor{animation:blink 1.15s steps(1,end) infinite}
+@media(prefers-reduced-motion:reduce){.cursor{animation:none}}
+</style>
+<rect width="1000" height="242" rx="10" fill="#111827"/>
+<rect x="0.5" y="0.5" width="999" height="241" rx="9.5" fill="none" stroke="#334155"/>
+<path d="M34 38H966" stroke="#334155" stroke-width="1"/>
+<circle cx="36" cy="21" r="4" fill="#71A5FA"/><text x="51" y="26" font-size="12" letter-spacing="1.8" class="mono" fill="#A9BBCE">TOON / DEVELOPMENT NOTES</text>
+<text x="34" y="106" font-size="51" font-weight="750" letter-spacing="-2.2" class="sans" fill="#F1F5F9">Hey, I'm Toon<tspan fill="#7DB3FF">.</tspan></text>
+<text x="36" y="139" font-size="18" class="sans" fill="#E2E8F0">I turn curiosity into things that actually work.</text>
+<text x="36" y="167" font-size="13" class="mono" fill="#A9BBCE">Developer  /  CMGT student  /  Creative technologist</text>
+<path d="M36 188H964" stroke="#334155" stroke-width="1"/>
+<text x="36" y="215" font-size="12" class="mono" fill="#93A8C2">Based in the Netherlands  ·  Building on curiosity</text>
+<g transform="translate(714 80)">
+<text x="0" y="0" class="mono" font-size="13" fill="#7896B5">// current status</text>
+<text x="0" y="30" class="mono" font-size="16" fill="#7DB3FF">while (curious) {</text>
+<text x="20" y="56" class="mono" font-size="16" fill="#F1F5F9">build();</text>
+<text x="0" y="82" class="mono" font-size="16" fill="#7DB3FF">}<tspan class="cursor" fill="#D2E5FF">_</tspan></text>
+</g>
+</svg>
