@@ -35,5 +35,20 @@ jobs:
           show_constellations: true
           show_orbits: true
           show_animations: true
-          auto_commit: true
-          commit_message: "chore(readme): update orbit visualization [skip ci]"
+          auto_commit: false
+
+      - name: Commit generated SVG
+        shell: bash
+        run: |
+          # Fail visibly if no SVG was generated.
+          test -s dist/github-cosmos.svg
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Stage the exact file, even if a .gitignore rule excludes dist/.
+          git add -f dist/github-cosmos.svg
+          if git diff --cached --quiet; then
+            echo "The Orbit SVG is already up to date."
+          else
+            git commit -m "chore(readme): update orbit visualization [skip ci]"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
