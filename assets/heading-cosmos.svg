@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="92" viewBox="0 0 980 92" role="img" aria-label="Repository orbit">
+<style>
+.bg{fill:#0f1724;stroke:#263246;stroke-width:1.5}
+.k{fill:#6ea8ff;font:700 13px Inter,Arial,sans-serif;letter-spacing:.18em;text-transform:uppercase}
+.t{fill:#e6edf3;font:700 30px Inter,Arial,sans-serif}
+.s{fill:#8ea3bf;font:500 15px Inter,Arial,sans-serif}
+.l{stroke:#263246;stroke-width:1.5}
+</style>
+<rect class="bg" x="1" y="1" width="978" height="90" rx="16"/>
+<text class="k" x="32" y="30">project universe</text>
+<text class="t" x="32" y="60">Software cosmos</text>
+<text class="s" x="32" y="79">A living map of repositories, languages and activity.</text>
+<line class="l" x1="760" y1="46" x2="930" y2="46"/>
+<circle cx="742" cy="46" r="4.5" fill="#7ee0d4"/>
+</svg>

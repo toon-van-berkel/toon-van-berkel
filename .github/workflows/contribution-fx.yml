@@ -1,0 +1,29 @@
+name: contribution-fx
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Sur1ive/contribution-fx@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/contribution-fx-fx2.svg?theme=fx2&background=%230d1117
+            dist/contribution-fx-fx2-dark.svg?theme=fx2&mode=dark&background=%230d1117
+            dist/contribution-fx-circuit.svg?theme=circuit&background=%230d1117
+            dist/contribution-fx-circuit-dark.svg?theme=circuit&mode=dark&background=%230d1117
+
+      - uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

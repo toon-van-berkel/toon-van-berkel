@@ -1,0 +1,39 @@
+name: update-github-orbit
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  visualize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Cosmos
+        uses: NiconiKimg/github-profile-orbit@v1
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          template: space
+          theme: auto
+          output_path: dist/github-cosmos.svg
+          custom_title: "Toon's Software Cosmos"
+          include_forks: false
+          include_archived: false
+          show_header: true
+          show_footer: true
+          show_stats: true
+          show_languages: true
+          show_activity: true
+          show_constellations: true
+          show_orbits: true
+          show_animations: true
+          auto_commit: true
+          commit_message: "chore(readme): update orbit visualization [skip ci]"
