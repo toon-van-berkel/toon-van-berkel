@@ -366,7 +366,7 @@
         <!-- Stars Pill -->
         <rect x="0" y="0" width="80" height="36" rx="8" class="metric-pill-bg" />
         <text x="40" y="16" text-anchor="middle" class="metric-label">STARS</text>
-        <text x="40" y="30" text-anchor="middle" class="metric-val">★ 170</text>
+        <text x="40" y="30" text-anchor="middle" class="metric-val">★ 171</text>
 
         <!-- Commits Pill -->
         <rect x="88" y="0" width="80" height="36" rx="8" class="metric-pill-bg" />
@@ -593,7 +593,7 @@
               text-anchor="start"
               class="repo-sub"
             >
-              ★ 102 • Python
+              ★ 103 • Python
             </text>
           </g>
         </g>
