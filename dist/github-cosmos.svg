@@ -357,7 +357,7 @@
         <tspan class="bullet-sep"> • </tspan>
         <tspan>Primary: TypeScript</tspan>
         <tspan class="bullet-sep"> • </tspan>
-        <tspan>23 Repositories</tspan>
+        <tspan>24 Repositories</tspan>
       </text>
 
       <!-- Metric Pills on the right (if enabled) -->
@@ -366,7 +366,7 @@
         <!-- Stars Pill -->
         <rect x="0" y="0" width="80" height="36" rx="8" class="metric-pill-bg" />
         <text x="40" y="16" text-anchor="middle" class="metric-label">STARS</text>
-        <text x="40" y="30" text-anchor="middle" class="metric-val">★ 171</text>
+        <text x="40" y="30" text-anchor="middle" class="metric-val">★ 172</text>
 
         <!-- Commits Pill -->
         <rect x="88" y="0" width="80" height="36" rx="8" class="metric-pill-bg" />
@@ -880,40 +880,40 @@
       
     <g class="footer-group">
       <!-- Spectrum Bar -->
-      <rect x="32.0" y="502" width="191.4" height="6" rx="2" fill="#3178c6" /><rect x="224.9" y="502" width="135.4" height="6" rx="2" fill="#ff3e00" /><rect x="361.9" y="502" width="114.5" height="6" rx="2" fill="#427819" /><rect x="477.9" y="502" width="104.5" height="6" rx="2" fill="#e34c26" /><rect x="583.9" y="502" width="91.1" height="6" rx="2" fill="#4F5D95" />
+      <rect x="32.0" y="502" width="288.4" height="6" rx="2" fill="#3178c6" /><rect x="321.9" y="502" width="107.8" height="6" rx="2" fill="#ff3e00" /><rect x="431.3" y="502" width="91.1" height="6" rx="2" fill="#427819" /><rect x="523.9" y="502" width="88.6" height="6" rx="2" fill="#4F5D95" /><rect x="614.0" y="502" width="83.6" height="6" rx="2" fill="#e34c26" />
 
       <!-- Legend Items -->
       
         <g transform="translate(32.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#3178c6" />
-          <text x="14" y="8" class="legend-text">TypeScript <tspan class="legend-pct">22.9%</tspan></text>
+          <text x="14" y="8" class="legend-text">TypeScript <tspan class="legend-pct">34.5%</tspan></text>
         </g>
       
         <g transform="translate(157.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#ff3e00" />
-          <text x="14" y="8" class="legend-text">Svelte <tspan class="legend-pct">16.2%</tspan></text>
+          <text x="14" y="8" class="legend-text">Svelte <tspan class="legend-pct">12.9%</tspan></text>
         </g>
       
         <g transform="translate(250.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#427819" />
-          <text x="14" y="8" class="legend-text">Makefile <tspan class="legend-pct">13.7%</tspan></text>
+          <text x="14" y="8" class="legend-text">Makefile <tspan class="legend-pct">10.9%</tspan></text>
         </g>
       
         <g transform="translate(359.0, 520)">
-          <circle cx="4" cy="4" r="4" fill="#e34c26" />
-          <text x="14" y="8" class="legend-text">HTML <tspan class="legend-pct">12.5%</tspan></text>
+          <circle cx="4" cy="4" r="4" fill="#4F5D95" />
+          <text x="14" y="8" class="legend-text">PHP <tspan class="legend-pct">10.6%</tspan></text>
         </g>
       
         <g transform="translate(449.0, 520)">
-          <circle cx="4" cy="4" r="4" fill="#4F5D95" />
-          <text x="14" y="8" class="legend-text">PHP <tspan class="legend-pct">10.9%</tspan></text>
+          <circle cx="4" cy="4" r="4" fill="#e34c26" />
+          <text x="14" y="8" class="legend-text">HTML <tspan class="legend-pct">10%</tspan></text>
         </g>
       
 
       <!-- Octo-Orbit Brand / Telemetry Timestamp on the right -->
       <g transform="translate(868, 524)">
         <text x="0" y="0" text-anchor="end" class="watermark-text">
-          ✦ github-profile-orbit • 2026-11-24
+          ✦ github-profile-orbit • 2026-11-25
         </text>
       </g>
     </g>
